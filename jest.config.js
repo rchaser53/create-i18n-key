@@ -4,7 +4,8 @@ module.exports = {
     'js',
     'vue',
   ],
-  testEnvironment: "node",
+  // testEnvironment: "node",
+  testURL: "http://localhost/",
   globals: {
     NODE_ENV: 'test',
   },
