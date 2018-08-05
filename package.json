@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rchaser53/create-i18n-key#readme",
   "devDependencies": {
+    "@types/jest": "^23.3.1",
     "jest": "^23.4.2",
     "typescript": "^3.0.1"
   }
