@@ -1,0 +1,24 @@
+{
+  "name": "create-i18n-key",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/create-i18n-key.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/create-i18n-key/issues"
+  },
+  "homepage": "https://github.com/rchaser53/create-i18n-key#readme",
+  "devDependencies": {
+    "jest": "^23.4.2",
+    "typescript": "^3.0.1"
+  }
+}

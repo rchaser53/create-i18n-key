@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es2015", "es2016", "dom", "es2017.object"],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "noImplicitThis": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "removeComments": true,
+    "baseUrl": "",
+    "paths": {
+      "~common/*": ["resources/common/*"],
+      "~admin/*": ["resources/admin/*"],
+      "~user/*": ["resources/user/*"]
+    }
+  },
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules", "stories", "vendor"]
+}
